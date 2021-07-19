@@ -1,0 +1,296 @@
+<!doctype html>
+<html lang="en">
+  <head>
+
+    <meta charset="utf-8"/>
+    <meta name="viewport"
+          content="width=device-width, initial-scale=1, shrink-to-fit=no">
+    <link rel="stylesheet"
+          href="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/css/bootstrap.min.css"
+          integrity="sha384-9aIt2nRpC12Uk9gS9baDl411NQApFmC26EwAOH8WgZl5MYYxFfc+NcPb1dKGj7Sk"
+          crossorigin="anonymous">
+    <link rel="stylesheet" type="text/css" href="css/image-comparison-slider.css">
+    <link rel="stylesheet" type="text/css" href="css/style.css">
+
+
+    <script src="https://cdnjs.cloudflare.com/ajax/libs/jquery/3.3.1/jquery.min.js"></script>
+    <script src="https://kit.fontawesome.com/b6fd079aab.js" crossorigin="anonymous"></script>
+    <script src="js/pace.js"></script>
+    <link rel="stylesheet" href="css/barber.css">
+    <link rel="stylesheet" href="css/button.css">
+
+
+    <title>Remote Sensing View Synthesis</title>
+    <style>
+      .paper-title {
+        margin-top: 2em;
+        margin-bottom: 2em;
+      }
+      .authors-list .name {
+        font-size: 16px;
+        font-weight: bold;
+      }
+      .authors-list .affiliation {
+        font-size: 0.7em;
+      }
+      .paper-link a {
+        font-size: 1em;
+      }
+      .short-videos video {
+        padding: 1em;
+      }
+      .content-block {
+        padding-left: 2em;
+        padding-right: 2em;
+        padding-bottom: 2em;
+      }
+      .overview-video {
+        background-color: rgb(255,255,255);
+      }
+      .overview-video .video-col {
+        margin-left: auto;
+        margin-right: auto;
+      }
+      .video-row {
+        margin-top: 1em;
+        margin-bottom: 1em;
+      }
+      .citation .description {
+        font-family: "Courier",monospace;
+        font-size: 16px;
+        white-space: pre;
+        text-align: left;
+      }
+      .additional-links {
+        background-color: rgb(255,255,255);
+      }
+      .img-box {
+        padding-left: 0.1em;
+        padding-right: 0.1em;
+        padding-top: 0.4em;
+        padding-bottom: 0.4em ;
+      }
+    </style>
+  </head>
+
+  <body oncontextmenu="return false" ondragstart="return false">
+    <div class="header-1">
+      <div class='header'>
+      <div class="header_style1">
+      <div class="logo">
+        <h1>
+          <a href="index.html">Implicit Scene Representation for Remote Sensing </a>
+        </h1>
+      </div>
+      <div class='menu'>
+        <ul class="">
+
+        </ul>
+      </div>
+      </div>
+    </div>
+    </div>
+    <div class="container">
+
+      <div class="paper-title">
+        <!-- title -->
+        <div class="row">
+          <div class="col">
+            <h1 class="name text-center" > Implicit Neural Representations for Large-scale Remote Sensing Scene </h1>
+          </div>
+        </div>
+        <!-- <div class="row">
+          <div class="col">
+            <p class="long-name text-center">
+              a multi-modal dataset for road extraction in aerial images
+            </p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">
+            <p class="long-name text-center">
+              to be presented
+            </p>
+          </div>
+        </div> -->
+      </div>
+
+      <!-- Authors -->
+      <div class="authors-list">
+        <div class="row">
+          <div class="col">
+            <p class="name text-center">
+              <a href="" target="_blank" >AI4EO, </a>
+              Visual Computing and Artificial Intelligence,
+              
+            </p>
+          </div>
+
+        </div>
+
+      </div>
+
+      <!-- Paper link -->
+      <div class="paper-link">
+        <div class="row">
+          <div class="col">
+            <p class="text-center">
+              <a class='button' href=""><strong> Paper </strong></a>
+              <a class='button fa' href=""><i class="fas fa-code"></i> <strong> Code </strong></a>
+              <a class='button fa' href=""><i class="fab fa-google-drive"></i><strong> Google Drive </strong></a>
+              <a class='button fa' href=""><i class="fas fa-cloud-download-alt"></i><strong> Baidu </strong></a>
+            </p>
+          </div>
+        </div>
+
+      </div>
+
+
+      <!-- Overview  -->
+      <div class="content-block overview-video">
+        <div class="row">
+          <div class="col">
+            <p class="title">
+              <h3>Project Overview</h3>
+            </p>
+          </div>
+        </div>
+        Remote sensing imagery, captured from top-view, can cover a large range of visual content. 
+        However, compared with ground-view data, they usually lack some informative details of the scene. In this context, 
+        recent progress on neural rendering and implicit neural representation makes the photorealistic cross-view synthesis 
+        possible by predicting the ground-view image given the top-view data. Cross-view synthesis enables the scene understanding 
+        from remote sensing and street views. Many applications can benefit from this task, including autonomous driving and navigation. 
+        Moreover, view synthesis between ground-view to top-view also bridges the gap between computer vision and remote sensing community 
+        and extends the application areas of remote sensing methods.
+        <div class="row">
+          <div class="col">
+            <img src="img/framework.png">
+          </div>
+        </div>
+
+      </div>
+
+
+
+      <!-- Overview  -->
+      <div class="content-block overview-video">
+        <div class="row">
+          <div class="col">
+            <p class="title">
+              <h3>Examples</h3>
+            </p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">
+            <div class="image-spliter">
+            <div class="mover"></div>
+            <img class="img-left" src="img/image1.jpg">
+            <img class="img-right" src="img/image2.jpg">
+            </div>
+          </div>
+
+          <div class="col">
+            <div class="image-spliter">
+            <div class="mover"></div>
+            <img class="img-left" src="img/city1.jpg">
+            <img class="img-right" src="img/city2.jpg">
+            </div>
+          </div>
+        </div>
+        <div class="row">
+
+          <div class="col">
+            <p class="text-center">Photorealistic View Rendering</p>
+          </div>
+          <div class="col">
+            <p class="text-center">Photorealistic View Rendering</p>
+          </div>
+        </div>
+        <script src="js/image-comparison-slider.js"></script>
+
+        <div class="row">
+          <div class="col">
+            <img src="img/combined.png">
+          </div>
+        </div>
+
+        <div class="row">
+          <div class="col">
+            <p class="title">
+              <h3>
+                Transferable implicit scene representations</h3>
+            </p>
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">
+            <img src="img/table1.png">
+          </div>
+        </div>
+        
+        Although there are plenty of street-view and vertical-view data, large-scale remote sensing datasets with dense 
+        view directions and accurate poses is difficult to obtain. Merely utilizing the vertical-view and ground-view is 
+        too sparse to train the implicit neural models. This further makes the transferability problem more serious. 
+        To overcome the data scarcity and model transferability problem, this project aims to exploit synthetic datasets and 
+        designing transfer learning methods to enable a large-scale application of view-synthesis task.
+
+      </div>
+
+      <!-- Citation -->
+      <div class="content-block citation">
+        <div class="row">
+          <div class="col">
+            <p class="title">
+              <h3>Citation</h3>
+            </p>
+            if you make use of our dataset, please cite our following paper:
+          </div>
+        </div>
+        <div class="row">
+          <div class="col">
+            <p class="description">
+            @inproceedings{,
+                author = {},
+                title = {},
+                booktitle = {},
+                year={2021}
+            }
+          </p>
+          </div>
+        </div>
+      </div>
+    <!-- Links -->
+    <div class="content-block additional-links">
+    <div class="row">
+        <div class="col">
+        <p class="title">
+            <h3>Additional links</h3>
+        </p>
+        </div>
+    </div>
+    <div class="row">
+        <div class="col">
+        <p class="description">
+        If you have any questions, please contact:
+        <a ></a>
+        <a ></a>
+        </p>
+        </div>
+
+    </div>
+    </div>
+    </div>
+  </div>
+    <!-- Bootstrap bits -->
+    <script src="https://code.jquery.com/jquery-3.5.1.slim.min.js"
+            integrity="sha384-DfXdz2htPH0lsSSs5nCTpuj/zy4C+OGpamoFVy38MVBnE+IbbVYUew+OrCXaRkfj"
+            crossorigin="anonymous"></script>
+    <script src="https://cdn.jsdelivr.net/npm/popper.js@1.16.0/dist/umd/popper.min.js"
+            integrity="sha384-Q6E9RHvbIyZFJoft+2mJbHaEWldlvI9IOYy5n3zV9zzTtmI3UksdQRVvoxMfooAo"
+            crossorigin="anonymous"></script>
+    <script src="https://stackpath.bootstrapcdn.com/bootstrap/4.5.0/js/bootstrap.min.js"
+            integrity="sha384-OgVRvuATP1z7JjHLkuOU7Xw704+h835Lr+6QL9UvYjZE3Ipu6Tp75j7Bh/kR0JKI"
+            crossorigin="anonymous"></script>
+  </body>
+</html>

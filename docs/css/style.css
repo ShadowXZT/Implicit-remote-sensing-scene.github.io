@@ -1,0 +1,48 @@
+
+.header {
+    margin: 0 auto;
+    width: 90%;
+  }
+.header-1 {
+    height: 200px;
+    background-color: #F4F9FE;
+    background: url(../img/head1.png) no-repeat;
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+    background-size: 100%
+}
+.authors {
+  font-size: 20px;
+  text-align: center;
+}
+.logo {
+  float: left;
+  text-align: center;
+}
+.logo h1 a {
+  color: #fff;
+  font-size: 1.2em;
+  font-weight: 500;
+}
+.header_style1 {
+  padding: 2em 0em;
+}
+.menu {
+  float: right;
+  margin-top: 0.6em;
+}
+.combine{
+  margin-left: 0.1em;
+  margin-right: 0.1em;
+}
+.heading {
+  color: #292929;
+  border-bottom: 3.5px solid #E1E1E1;
+  width: 200px;
+  margin: 0 auto;
+  font-size: 1.5em;
+  text-transform: uppercase;
+  text-shadow: 0px 0px 1px #292929;
+  text-align: center;
+  padding-bottom: 10px;
+}
