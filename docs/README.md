@@ -23,3 +23,6 @@ In Data_sample/panos.txt:
 Pano_ID can be used to download the street view image;
 Lat and Lon can be used to download the Street view image or the top-view satellite image
 X and Y can be used to locate in the 3D mesh model and render the synthetic image
+
+
+Mesh_render.py is a sample code for rendering the synthetic image. Using the street view API, we can get the corresponding real image.
