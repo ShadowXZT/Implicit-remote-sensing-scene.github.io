@@ -17,7 +17,8 @@ Data description:
 In Data_sample/panos.txt:
 
         Pano_ID,              Lat,               Lon,          Y in 3D model,     X in 3D model
-AXD-LhS8HF3v1XajBnV2nA, 60.1644797333783, 24.92898345052589, 4400.232103129849,  6056.963851299137
+  
+        AXD-LhS8HF3v1XajBnV2nA, 60.1644797333783, 24.92898345052589, 4400.232103129849,  6056.963851299137
 
 Pano_ID can be used to download the street view image;
 Lat and Lon can be used to download the Street view image or the top-view satellite image
