@@ -27,4 +27,4 @@ X and Y can be used to locate in the 3D mesh model and render the synthetic imag
 
 Mesh_render.py is a sample code for rendering the synthetic image. Using the street view API, we can get the corresponding real image.
 
-![alt text](https://github.com/[username]/[reponame]/blob/[branch]/image.jpg?raw=true)
+![alt text](https://github.com/ShadowXZT/Implicit-remote-sensing-scene.github.io/blob/main/docs/img/samples.png?raw=true)
