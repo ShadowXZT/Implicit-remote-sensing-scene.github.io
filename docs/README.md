@@ -10,7 +10,7 @@ Remote sensing imagery, captured from top-view, can cover a large range of visua
 
 
 <div  align="center">    
- <img src="img/samples.png" width = "1200" height = "600" alt="example" align=center />
+ <img src="img/samples.png" width = "1200" height = "500" alt="example" align=center />
 </div>
 
 
