@@ -6,8 +6,6 @@
 
 Remote sensing imagery, captured from top-view, can cover a large range of visual content. However, compared with ground-view data, they usually lack some informative details of the scene. In this context, recent progress on neural rendering and implicit neural representation makes the photorealistic cross-view synthesis possible by predicting the ground-view image given the top-view data. Cross-view synthesis enables the scene understanding from remote sensing and street views. Many applications can benefit from this task, including autonomous driving and navigation. Moreover, view synthesis between ground-view to top-view also bridges the gap between computer vision and remote sensing community and extends the application areas of remote sensing methods.
 
-<p align="right">(<a href="#top">back to top</a>)</p>
-
 
 <div  align="center">    
  <img src="img/samples.png" width = "1200" height = "400" alt="example" align=center />
