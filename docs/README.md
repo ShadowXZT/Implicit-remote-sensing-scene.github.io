@@ -31,13 +31,13 @@ The annotation tool can be accessed by the following link:
  ```
 3. Finally, open a browser and use an account to log into the annotation system:
  ```python
-   localhost:8002
-   ```
-   The following accounts are avaliable now:
-   ```python
-   username: user1  passwd: user1
-   username: user2  passwd: user2
-   ```
+ localhost:8002
+  ```
+  The following accounts are avaliable now:
+  ```python
+  username: user1  passwd: user1
+  username: user2  passwd: user2
+  ```
 ### Annotation
 1. Get a free API Key at [https://example.com](https://example.com)
 2. Clone the repo
