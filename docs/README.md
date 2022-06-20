@@ -10,7 +10,7 @@ Remote sensing imagery, captured from top-view, can cover a large range of visua
 
 
 <div  align="center">    
- <img src="[resources/datasets4eo.png](https://github.com/ShadowXZT/Implicit-remote-sensing-scene.github.io/blob/main/docs/img/samples.png?raw=true)" width = "400" height = "130" alt="example" align=center />
+ <img src="docs/img/samples.png" width = "400" height = "130" alt="example" align=center />
 </div>
 
 
