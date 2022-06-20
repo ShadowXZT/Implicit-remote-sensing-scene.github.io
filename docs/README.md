@@ -13,29 +13,14 @@ Remote sensing imagery, captured from top-view, can cover a large range of visua
  <img src="img/samples.png" width = "1200" height = "400" alt="example" align=center />
 </div>
 
-
-### Built With
-
-This section should list any major frameworks/libraries used to bootstrap your project. Leave any add-ons/plugins for the acknowledgements section. Here are a few examples.
-
-* [Next.js](https://nextjs.org/)
-* [React.js](https://reactjs.org/)
-* [Vue.js](https://vuejs.org/)
-
-<p align="right">(<a href="#top">back to top</a>)</p>
-
-
-
 <!-- GETTING STARTED -->
 ## Getting Started
-
-This is an example of how you may give instructions on setting up your project locally.
-To get a local copy up and running follow these simple example steps.
+The annotation tool can be accessed by the following link:
+[Download Page](./product/download.html)
 
 ### Prerequisites
 
-This is an example of how to list things you need to use the software and how to install them.
-* npm
+* First, you need an account for 
   ```sh
   npm install npm@latest -g
   ```
