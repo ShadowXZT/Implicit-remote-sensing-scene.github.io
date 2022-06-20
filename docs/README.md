@@ -38,11 +38,11 @@ Remote sensing imagery, captured from top-view, can cover a large range of visua
 1. Annotate 9 pairs of corresponding points
 2. Using the following link to view and select image samples for annotation:
 
-   [localhost:8002/table](http://localhost:8000/table)
+   [localhost:8002/table](http://localhost:8002/table)
 
 3. Using the following link to view the summary of the annotation process:
 
-   [localhost:8002/summary](http://localhost:8000/summary)
+   [localhost:8002/summary](http://localhost:8002/summary)
 
 
 <p align="right">(<a href="#top">back to top</a>)</p>
