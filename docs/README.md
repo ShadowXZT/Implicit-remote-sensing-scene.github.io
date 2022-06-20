@@ -28,15 +28,19 @@ Remote sensing imagery, captured from top-view, can cover a large range of visua
  
    [localhost:8002](http://localhost:8002)
  
+  Please Do Not Use the root account.
   The following accounts are avaliable now:
   ```python
   username: user1  passwd: user1
   username: user2  passwd: user2
   ```
+4. In the table page, find a starting sample and left click on it to start the annotation.
 -----------------------------------------------------------------------------------------
 ### Annotation
-1. Annotate 9 pairs of corresponding points
-2. Using the following link to view and select image samples for annotation:
+1. Annotating about 9 (more than 6) pairs of corresponding points.
+2. trying to find the semantic corresponding points from the given two images.
+3. Cornner points are always the best choices.
+4. Using the following link to view and select image samples for annotation:
 
    [localhost:8002/table](http://localhost:8002/table)
 
