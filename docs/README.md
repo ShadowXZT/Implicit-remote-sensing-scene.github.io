@@ -30,7 +30,7 @@ The annotation tool can be accessed by the following link:
  ssh -L localhost:8002:172.17.0.3:8000 xshadow@AI4EO2.sipeo.lrg.tum.de
  ```
 3. Finally, open a browser and use an account to log into the annotation system:
- * ```python
+ ```python
    localhost:8002
    ```
    The following accounts are avaliable now:
