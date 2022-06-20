@@ -36,11 +36,13 @@ Remote sensing imagery, captured from top-view, can cover a large range of visua
   ```
 4. In the table page, find a starting sample and left click on it to start the annotation.
 -----------------------------------------------------------------------------------------
-### Annotation
-1. Annotating about 9 (more than 6) pairs of corresponding points.
-2. trying to find the semantic corresponding points from the given two images.
-3. Cornner points are always the best choices.
-4. Using the following link to view and select image samples for annotation:
+### Annotation Instructions
+1. Annotating about 9 (more than 6) pairs of corresponding points. Different points are displayed with different colors.
+2. Trying to find the semantic corresponding points from the given two images.
+3. Left click on the first image and then left click on the second image to annotate a pair of corresponding points.
+4. Using the mouse wheel to control the size of points. This is useful for double checking the anntoated points.
+5. Cornner points of windows and buildings are always the best choices.
+6. Using the following link to view and select image samples for annotation:
 
    [localhost:8002/table](http://localhost:8002/table)
 
