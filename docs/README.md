@@ -13,11 +13,6 @@ Remote sensing imagery, captured from top-view, can cover a large range of visua
  <img src="img/samples.png" width = "1200" height = "400" alt="example" align=center />
 </div>
 
-<!-- GETTING STARTED -->
-## Getting Started
-The annotation tool can be accessed by the following link:
-[Download Page](./product/download.html)
-
 ### Prerequisites
 
 1. First, run the following script to connect the the annotation server
