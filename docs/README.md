@@ -39,19 +39,7 @@ The annotation tool can be accessed by the following link:
   username: user2  passwd: user2
   ```
 ### Annotation
-1. Get a free API Key at [https://example.com](https://example.com)
-2. Clone the repo
-   ```sh
-   git clone https://github.com/your_username_/Project-Name.git
-   ```
-3. Install NPM packages
-   ```sh
-   npm install
-   ```
-4. Enter your API in `config.js`
-   ```js
-   const API_KEY = 'ENTER YOUR API';
-   ```
+1. annotate 9 pairs of corresponding points
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
@@ -64,6 +52,8 @@ Zhitong Xiong - zhitong.xiong@tum.de
 Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
 
 <p align="right">(<a href="#top">back to top</a>)</p>
+
+
 
 ## Problem statement:
 Assume that we have got a 3D city model, which can be reconstructed by MVS from multiple satellite images. Given the 3D model and street-view images at several locations, we aim to render novel views at other locations continuously.
@@ -84,7 +74,6 @@ In Data_sample/panos.txt:
 Pano_ID can be used to download the street view image;
 Lat and Lon can be used to download the Street view image or the top-view satellite image
 X and Y can be used to locate in the 3D mesh model and render the synthetic image
-
 
 Mesh_render.py is a sample code for rendering the synthetic image. Using the street view API, we can get the corresponding real image.
 
