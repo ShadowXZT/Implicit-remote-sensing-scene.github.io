@@ -33,7 +33,7 @@ Remote sensing imagery, captured from top-view, can cover a large range of visua
   username: user1  passwd: user1
   username: user2  passwd: user2
   ```
-  
+-----------------------------------------------------------------------------------------
 ### Annotation
 1. Annotate 9 pairs of corresponding points
 2. Using the following link to view and select image samples for annotation:
@@ -47,7 +47,7 @@ Remote sensing imagery, captured from top-view, can cover a large range of visua
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
-
+-----------------------------------------------------------------------------------------
 <!-- CONTACT -->
 ## Contact
 
@@ -58,7 +58,7 @@ Project Link: [Implicit Neural Representations for Remote Sensing Scene]([https:
 <p align="right">(<a href="#top">back to top</a>)</p>
 
 
-
+-----------------------------------------------------------------------------------------
 ## Problem statement:
 Assume that we have got a 3D city model, which can be reconstructed by MVS from multiple satellite images. Given the 3D model and street-view images at several locations, we aim to render novel views at other locations continuously.
 
