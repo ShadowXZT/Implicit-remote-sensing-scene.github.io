@@ -44,7 +44,7 @@ Remote sensing imagery, captured from top-view, can cover a large range of visua
 
 Zhitong Xiong - zhitong.xiong@tum.de
 
-Project Link: [https://github.com/your_username/repo_name](https://github.com/your_username/repo_name)
+Project Link: [Implicit Neural Representations for Remote Sensing Scene]([https://github.com/your_username/repo_name](https://shadowxzt.github.io/Implicit-remote-sensing-scene.github.io/))
 
 <p align="right">(<a href="#top">back to top</a>)</p>
 
