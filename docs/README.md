@@ -1,4 +1,4 @@
-# Implicit Neural Representations for Large-scale Remote Sensing Scene
+# Implicit Neural Representations for Remote Sensing Scene
 
 <!-- ABOUT THE PROJECT -->
 ## About The Project
