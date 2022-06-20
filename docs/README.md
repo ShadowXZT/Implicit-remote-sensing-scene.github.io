@@ -135,16 +135,12 @@ Project Link: [https://github.com/your_username/repo_name](https://github.com/yo
 ## Problem statement:
 Assume that we have got a 3D city model, which can be reconstructed by MVS from multiple satellite images. Given the 3D model and street-view images at several locations, we aim to render novel views at other locations continuously.
 
-
 ## Data description:
-1.	Top view satellite image. The red dot indicates the location for capturing the street view images.
-2.	The corresponding 3D city model (mesh and texture), with pixel-wise segmentation annotations. Georeferenced to the top-view image and street view images.
-3.	The corresponding street view images at coordinate (6063,4597) of the 3D model. The filenames of these images indicate the camera poses (location, pitch, fov and heading). 
-4.	The corresponding 360 street view image
-5.	Illustration of an initial idea on novel street view synthesis.
-
-
-
+*	Top view satellite image. The red dot indicates the location for capturing the street view images.
+*	The corresponding 3D city model (mesh and texture), with pixel-wise segmentation annotations. Georeferenced to the top-view image and street view images.
+*	The corresponding street view images at coordinate (6063,4597) of the 3D model. The filenames of these images indicate the camera poses (location, pitch, fov and heading). 
+*	The corresponding 360 street view image
+*	Illustration of an initial idea on novel street view synthesis.
 
 In Data_sample/panos.txt:
 
