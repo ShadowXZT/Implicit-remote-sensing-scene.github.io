@@ -15,7 +15,7 @@ Remote sensing imagery, captured from top-view, can cover a large range of visua
 -----------------------------------------------------------------------------------------
 **Before the following steps, please make sure that your TUM VPN has been connected.**
 
-1. First, run the following script to connect the the annotation server
+1. First, run the following script to connect the annotation server
   ```sh
   Windows PowerShell
   ```
