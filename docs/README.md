@@ -25,7 +25,7 @@ Remote sensing imagery, captured from top-view, can cover a large range of visua
  ssh -L localhost:8002:172.17.0.3:8000 xshadow@AI4EO2.sipeo.lrg.tum.de
  ```
 3. Finally, open a browser and use an account to log into the annotation system:
- ```html
+ ```
  [localhost:8002](http://localhost:8002)
   ```
   The following accounts are avaliable now:
@@ -37,11 +37,11 @@ Remote sensing imagery, captured from top-view, can cover a large range of visua
 ### Annotation
 1. Annotate 9 pairs of corresponding points
 2. Using the following link to view and select image samples for annotation:
-```html
+```
 [localhost:8002/table](http://localhost:8000/table)
 ```
 3. Using the following link to view the summary of the annotation process:
-```html
+```
 [localhost:8002/summary](http://localhost:8000/summary)
 ```
 
