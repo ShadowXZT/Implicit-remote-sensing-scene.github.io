@@ -42,7 +42,8 @@ Remote sensing imagery, captured from top-view, can cover a large range of visua
 3. Left click on the first image and then left click on the second image to annotate a pair of corresponding points.
 4. Using the mouse wheel to control the size of points. This is useful for double checking the anntoated points.
 5. Cornner points of windows and buildings are always the best choices.
-6. Using the following link to view and select image samples for annotation:
+6. CTRL+S or click on the next arrow will automatically save the anntoations.
+7. Using the following link to view and select image samples for annotation:
 
    [localhost:8002/table](http://localhost:8002/table)
 
